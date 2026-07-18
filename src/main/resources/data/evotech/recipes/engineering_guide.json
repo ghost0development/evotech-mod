@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "evotech:iron_gear"
+    }
+  ],
+  "result": {
+    "item": "evotech:engineering_guide",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:shapeless",
+  "ingredients": [
+    {
+      "item": "evotech:constantan_ingot"
+    }
+  ],
+  "result": {
+    "item": "evotech:constantan_nugget",
+    "count": 9
+  }
+}

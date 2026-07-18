@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:shaped",
+  "pattern": [
+    "I",
+    "I"
+  ],
+  "key": {
+    "I": "evotech:copper_ingot"
+  },
+  "result": {
+    "item": "evotech:rod_copper",
+    "count": 2
+  }
+}

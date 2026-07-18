@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "evotech:block/generator"
+    },
+    "lit=true": {
+      "model": "evotech:block/generator_lit"
+    }
+  }
+}

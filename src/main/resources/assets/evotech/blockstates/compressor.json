@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "evotech:block/compressor"
+    },
+    "lit=true": {
+      "model": "evotech:block/compressor_lit"
+    }
+  }
+}

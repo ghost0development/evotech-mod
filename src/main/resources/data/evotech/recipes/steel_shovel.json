@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["S", "T", "T"],
+  "key": {
+    "S": {"item": "evotech:steel_ingot"},
+    "T": {"item": "minecraft:stick"}
+  },
+  "result": {"item": "evotech:steel_shovel", "count": 1}
+}

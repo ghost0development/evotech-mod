@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["CC", " S", " S"],
+  "key": {
+    "C": {"item": "evotech:copper_ingot"},
+    "S": {"item": "minecraft:stick"}
+  },
+  "result": {"item": "evotech:copper_hoe", "count": 1}
+}

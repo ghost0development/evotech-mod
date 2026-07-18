@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "evotech:block/macerator"
+    },
+    "lit=true": {
+      "model": "evotech:block/macerator_lit"
+    }
+  }
+}

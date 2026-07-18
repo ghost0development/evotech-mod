@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#is_overworld",
+  "features": [
+    "evotech:tin_ore",
+    "evotech:lead_ore",
+    "evotech:silver_ore",
+    "evotech:aluminum_ore",
+    "evotech:nickel_ore",
+    "evotech:zinc_ore"
+  ],
+  "step": "underground_ores"
+}

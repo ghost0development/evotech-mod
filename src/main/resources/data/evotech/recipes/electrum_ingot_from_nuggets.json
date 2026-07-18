@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:shaped",
+  "pattern": [
+    "NNN",
+    "NNN",
+    "NNN"
+  ],
+  "key": {
+    "N": "evotech:electrum_nugget"
+  },
+  "result": {
+    "item": "evotech:electrum_ingot",
+    "count": 1
+  }
+}

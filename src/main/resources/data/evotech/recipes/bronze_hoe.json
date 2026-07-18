@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["BB", " S", " S"],
+  "key": {
+    "B": {"item": "evotech:bronze_ingot"},
+    "S": {"item": "minecraft:stick"}
+  },
+  "result": {"item": "evotech:bronze_hoe", "count": 1}
+}

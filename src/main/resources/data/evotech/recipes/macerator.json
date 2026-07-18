@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:shaped",
+  "pattern": [
+    "SIS",
+    "ICI",
+    "SIS"
+  ],
+  "key": {
+    "S": "evotech:steel_ingot",
+    "I": "minecraft:iron_ingot",
+    "C": "minecraft:cobblestone"
+  },
+  "result": {
+    "item": "evotech:macerator",
+    "count": 1
+  }
+}

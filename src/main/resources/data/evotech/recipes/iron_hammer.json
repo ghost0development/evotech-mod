@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TT",
+    " S",
+    " S"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "evotech:iron_hammer",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "evotech:lead_ore"
+  },
+  "result": {
+    "item": "evotech:lead_ingot"
+  },
+  "experience": 0.7,
+  "cookingtime": 200
+}

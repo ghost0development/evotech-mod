@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": "evotech:constantan_ingot"
+  },
+  "result": {
+    "item": "evotech:constantan_block",
+    "count": 1
+  }
+}

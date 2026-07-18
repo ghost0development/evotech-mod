@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "evotech:tin_ore",
+    "evotech:lead_ore",
+    "evotech:silver_ore",
+    "evotech:tin_block",
+    "evotech:bronze_block",
+    "evotech:lead_block",
+    "evotech:silver_block",
+    "evotech:aluminum_ore",
+    "evotech:nickel_ore",
+    "evotech:zinc_ore",
+    "evotech:aluminum_block",
+    "evotech:nickel_block",
+    "evotech:zinc_block",
+    "evotech:electrum_block",
+    "evotech:constantan_block"
+  ]
+}

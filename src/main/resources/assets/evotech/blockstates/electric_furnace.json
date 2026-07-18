@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=false": { "model": "evotech:block/electric_furnace" },
+    "lit=true": { "model": "evotech:block/electric_furnace_lit" }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "evotech:silver_ingot"
+    }
+  ],
+  "result": {
+    "item": "evotech:electrum_ingot",
+    "count": 2
+  }
+}

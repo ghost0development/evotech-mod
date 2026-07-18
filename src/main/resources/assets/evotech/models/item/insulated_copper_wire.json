@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "evotech:item/insulated_copper_wire"
+  }
+}

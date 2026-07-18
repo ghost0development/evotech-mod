@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=false": { "model": "evotech:block/alloy_smelter" },
+    "lit=true": { "model": "evotech:block/alloy_smelter_lit" }
+  }
+}

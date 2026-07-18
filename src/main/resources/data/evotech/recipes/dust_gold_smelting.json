@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "evotech:dust_gold"
+  },
+  "result": {
+    "item": "minecraft:gold_ingot"
+  },
+  "experience": 0.5,
+  "cookingtime": 200
+}

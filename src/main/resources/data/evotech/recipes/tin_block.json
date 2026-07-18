@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["TTT", "TTT", "TTT"],
+  "key": {"T": {"item": "evotech:tin_ingot"}},
+  "result": {"item": "evotech:tin_block", "count": 1}
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["GRG", "RBR", "GRG"],
+  "key": {
+    "G": {"item": "minecraft:gold_ingot"},
+    "R": {"item": "minecraft:redstone"},
+    "B": {"item": "evotech:basic_circuit"}
+  },
+  "result": {"item": "evotech:advanced_circuit", "count": 1}
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:shaped",
+  "pattern": [
+    "CWC",
+    "CWC",
+    " C "
+  ],
+  "key": {
+    "C": "evotech:copper_ingot",
+    "W": "evotech:copper_wire"
+  },
+  "result": {
+    "item": "evotech:copper_coil",
+    "count": 1
+  }
+}

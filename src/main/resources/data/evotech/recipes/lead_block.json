@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["TTT", "TTT", "TTT"],
+  "key": {"T": {"item": "evotech:lead_ingot"}},
+  "result": {"item": "evotech:lead_block", "count": 1}
+}

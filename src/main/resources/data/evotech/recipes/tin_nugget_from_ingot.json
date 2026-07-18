@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [{"item": "evotech:tin_ingot"}],
+  "result": {"item": "evotech:tin_nugget", "count": 9}
+}

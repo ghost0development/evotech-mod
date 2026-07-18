@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:shapeless",
+  "ingredients": [
+    {
+      "item": "evotech:zinc_ingot"
+    }
+  ],
+  "result": {
+    "item": "evotech:zinc_nugget",
+    "count": 9
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:shaped",
+  "pattern": [
+    "IRI",
+    "ICI",
+    "IRI"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "R": "minecraft:redstone",
+    "C": "minecraft:cobblestone"
+  },
+  "result": {
+    "item": "evotech:generator",
+    "count": 1
+  }
+}

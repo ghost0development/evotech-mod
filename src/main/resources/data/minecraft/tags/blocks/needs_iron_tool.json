@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "evotech:deepslate_tin_ore",
+    "evotech:deepslate_lead_ore",
+    "evotech:deepslate_silver_ore",
+    "evotech:steel_block",
+    "evotech:deepslate_aluminum_ore",
+    "evotech:deepslate_nickel_ore",
+    "evotech:deepslate_zinc_ore"
+  ]
+}

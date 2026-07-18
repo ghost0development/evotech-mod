@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:shaped",
+  "pattern": [
+    "SIS",
+    "I I",
+    "SIS"
+  ],
+  "key": {
+    "S": "evotech:steel_ingot",
+    "I": "minecraft:iron_ingot"
+  },
+  "result": {
+    "item": "evotech:machine_frame",
+    "count": 1
+  }
+}

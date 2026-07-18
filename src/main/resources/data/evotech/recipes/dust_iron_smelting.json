@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "evotech:dust_iron"
+  },
+  "result": {
+    "item": "minecraft:iron_ingot"
+  },
+  "experience": 0.5,
+  "cookingtime": 200
+}

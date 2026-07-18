@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:shapeless",
+  "ingredients": [
+    {
+      "item": "evotech:aluminum_ingot"
+    }
+  ],
+  "result": {
+    "item": "evotech:aluminum_nugget",
+    "count": 9
+  }
+}

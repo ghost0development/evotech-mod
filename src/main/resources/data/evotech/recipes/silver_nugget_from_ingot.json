@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [{"item": "evotech:silver_ingot"}],
+  "result": {"item": "evotech:silver_nugget", "count": 9}
+}

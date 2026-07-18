@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:shaped",
+  "pattern": [
+    "I I",
+    " S ",
+    "I I"
+  ],
+  "key": {
+    "I": "evotech:aluminum_ingot",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "item": "evotech:gear_aluminum",
+    "count": 1
+  }
+}

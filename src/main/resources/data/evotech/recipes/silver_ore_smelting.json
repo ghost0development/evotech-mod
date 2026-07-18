@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "evotech:silver_ore"
+  },
+  "result": {
+    "item": "evotech:silver_ingot"
+  },
+  "experience": 0.7,
+  "cookingtime": 200
+}

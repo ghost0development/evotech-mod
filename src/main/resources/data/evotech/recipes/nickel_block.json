@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": "evotech:nickel_ingot"
+  },
+  "result": {
+    "item": "evotech:nickel_block",
+    "count": 1
+  }
+}

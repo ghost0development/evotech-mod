@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:shaped",
+  "pattern": [
+    "II",
+    "II"
+  ],
+  "key": {
+    "I": "evotech:steel_ingot"
+  },
+  "result": {
+    "item": "evotech:plate_steel",
+    "count": 4
+  }
+}

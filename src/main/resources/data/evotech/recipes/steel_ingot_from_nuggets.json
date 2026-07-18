@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["NNN", "NNN", "NNN"],
+  "key": {"N": {"item": "evotech:steel_nugget"}},
+  "result": {"item": "evotech:steel_ingot", "count": 1}
+}

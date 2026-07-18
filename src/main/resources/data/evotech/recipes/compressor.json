@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:shaped",
+  "pattern": [
+    "SSS",
+    "SIS",
+    " C "
+  ],
+  "key": {
+    "S": "evotech:steel_ingot",
+    "I": "minecraft:iron_ingot",
+    "C": "minecraft:cobblestone"
+  },
+  "result": {
+    "item": "evotech:compressor",
+    "count": 1
+  }
+}

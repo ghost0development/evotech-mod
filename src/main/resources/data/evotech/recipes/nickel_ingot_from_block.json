@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:shapeless",
+  "ingredients": [
+    {
+      "item": "evotech:nickel_block"
+    }
+  ],
+  "result": {
+    "item": "evotech:nickel_ingot",
+    "count": 9
+  }
+}

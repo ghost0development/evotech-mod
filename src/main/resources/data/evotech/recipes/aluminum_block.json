@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": "evotech:aluminum_ingot"
+  },
+  "result": {
+    "item": "evotech:aluminum_block",
+    "count": 1
+  }
+}

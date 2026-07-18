@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "item": "evotech:nickel_ingot"
+    }
+  ],
+  "result": {
+    "item": "evotech:constantan_ingot",
+    "count": 2
+  }
+}

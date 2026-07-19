@@ -15,20 +15,15 @@ public class ModMenuTypes {
     public static final DeferredRegister<MenuType<?>> MENUS =
             DeferredRegister.create(ForgeRegistries.MENU_TYPES, EvoTech.MOD_ID);
 
-    public static final RegistryObject<MenuType<AlloySmelterMenu>> ALLOY_SMELTER =
-            registerMenu("alloy_smelter", AlloySmelterMenu::new);
-
-    public static final RegistryObject<MenuType<ElectricFurnaceMenu>> ELECTRIC_FURNACE =
-            registerMenu("electric_furnace", ElectricFurnaceMenu::new);
-
-    public static final RegistryObject<MenuType<MaceratorMenu>> MACERATOR =
-            registerMenu("macerator", MaceratorMenu::new);
-
-    public static final RegistryObject<MenuType<GeneratorMenu>> GENERATOR =
-            registerMenu("generator", GeneratorMenu::new);
-
-    public static final RegistryObject<MenuType<CompressorMenu>> COMPRESSOR =
-            registerMenu("compressor", CompressorMenu::new);
+    public static final RegistryObject<MenuType<AlloySmelterMenu>> ALLOY_SMELTER = registerMenu("alloy_smelter", AlloySmelterMenu::new);
+    public static final RegistryObject<MenuType<ElectricFurnaceMenu>> ELECTRIC_FURNACE = registerMenu("electric_furnace", ElectricFurnaceMenu::new);
+    public static final RegistryObject<MenuType<MaceratorMenu>> MACERATOR = registerMenu("macerator", MaceratorMenu::new);
+    public static final RegistryObject<MenuType<GeneratorMenu>> GENERATOR = registerMenu("generator", GeneratorMenu::new);
+    public static final RegistryObject<MenuType<CompressorMenu>> COMPRESSOR = registerMenu("compressor", CompressorMenu::new);
+    public static final RegistryObject<MenuType<SteamEngineMenu>> STEAM_ENGINE = registerMenu("steam_engine", SteamEngineMenu::new);
+    public static final RegistryObject<MenuType<WireMillMenu>> WIRE_MILL = registerMenu("wire_mill", WireMillMenu::new);
+    public static final RegistryObject<MenuType<AssemblingMachineMenu>> ASSEMBLING_MACHINE = registerMenu("assembling_machine", AssemblingMachineMenu::new);
+    public static final RegistryObject<MenuType<MatterScannerMenu>> MATTER_SCANNER = registerMenu("matter_scanner", MatterScannerMenu::new);
 
     private static <T extends AbstractContainerMenu> RegistryObject<MenuType<T>> registerMenu(
             String name, IContainerFactory<T> factory) {

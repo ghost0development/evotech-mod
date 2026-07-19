@@ -10,14 +10,23 @@ import net.minecraft.world.item.crafting.Ingredient;
 
 public enum ModArmorMaterial implements ArmorMaterial {
     COPPER("copper", 15, new int[]{2, 5, 6, 2}, 8,
-            SoundEvents.ARMOR_EQUIP_IRON, 0.0F, 0.0F, () -> Ingredient.of(net.minecraftforge.registries.ForgeRegistries.ITEMS.getValue(
-            new ResourceLocation("forge", "ingots/copper")))),
+            SoundEvents.ARMOR_EQUIP_IRON, 0.0F, 0.0F, () -> Ingredient.of(
+            net.minecraft.world.item.Items.COPPER_INGOT)),
     BRONZE("bronze", 20, new int[]{2, 5, 6, 2}, 10,
             SoundEvents.ARMOR_EQUIP_IRON, 1.0F, 0.0F, () -> Ingredient.of(
             com.evotech.init.ModItems.BRONZE_INGOT.get())),
     STEEL("steel", 30, new int[]{3, 6, 8, 3}, 12,
             SoundEvents.ARMOR_EQUIP_NETHERITE, 2.0F, 0.1F, () -> Ingredient.of(
-            com.evotech.init.ModItems.STEEL_INGOT.get()));
+            com.evotech.init.ModItems.STEEL_INGOT.get())),
+    TUNGSTEN("tungsten", 40, new int[]{3, 7, 9, 3}, 8,
+            SoundEvents.ARMOR_EQUIP_NETHERITE, 3.0F, 0.2F, () -> Ingredient.of(
+            com.evotech.init.ModItems.TUNGSTEN_INGOT.get())),
+    TITANIUM("titanium", 55, new int[]{4, 8, 10, 4}, 10,
+            SoundEvents.ARMOR_EQUIP_NETHERITE, 4.0F, 0.3F, () -> Ingredient.of(
+            com.evotech.init.ModItems.TITANIUM_INGOT.get())),
+    IRIDIUM("iridium", 70, new int[]{5, 9, 11, 5}, 14,
+            SoundEvents.ARMOR_EQUIP_NETHERITE, 5.0F, 0.4F, () -> Ingredient.of(
+            com.evotech.init.ModItems.IRIDIUM_INGOT.get()));
 
     private static final int[] MAX_DAMAGE_ARRAY = new int[]{13, 15, 16, 11};
     private final String name;

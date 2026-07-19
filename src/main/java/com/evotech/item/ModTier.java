@@ -16,6 +16,12 @@ public class ModTier {
             () -> Ingredient.of(com.evotech.init.ModItems.BRONZE_INGOT.get()));
     public static final Tier STEEL = new SimpleTier(3, 800, 7.0F, 2.5F, 12,
             () -> Ingredient.of(com.evotech.init.ModItems.STEEL_INGOT.get()));
+    public static final Tier TUNGSTEN = new SimpleTier(4, 1200, 8.5F, 3.5F, 8,
+            () -> Ingredient.of(com.evotech.init.ModItems.TUNGSTEN_INGOT.get()));
+    public static final Tier TITANIUM = new SimpleTier(5, 1800, 10.0F, 4.5F, 10,
+            () -> Ingredient.of(com.evotech.init.ModItems.TITANIUM_INGOT.get()));
+    public static final Tier IRIDIUM = new SimpleTier(6, 2500, 12.0F, 6.0F, 14,
+            () -> Ingredient.of(com.evotech.init.ModItems.IRIDIUM_INGOT.get()));
 
     private static class SimpleTier implements Tier {
         private final int level;
